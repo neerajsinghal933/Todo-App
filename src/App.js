@@ -11,7 +11,7 @@ function App() {
     {rowNumber:1, description: 'Feed Puppy', assigned: 'Eric'},
     {rowNumber:2, description: 'Water Puppy', assigned: 'Two'},
     {rowNumber:3, description: 'Play Puppy', assigned: 'Three'},
-    {rowNumber:4, description: 'Charge Puppy', assigned: 'Four'},
+    {rowNumber:4, description: 'Charged Puppy', assigned: 'Four'},
   ]);
   
   const addTodo = (description, assigned) =>{
